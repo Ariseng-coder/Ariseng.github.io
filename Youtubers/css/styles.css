@@ -39,8 +39,8 @@ body {
 .imageHome{
     border:black 4px solid;
     border-radius: 3%;
-    width: 100%;
-    height: 250px; /* 7- tamanyo */
+    width: 60%;
+    height: 450px; /* 7- tamanyo */
     /* Se utiliza en imágenes y videos 
     para asegurarse de que siempre llenen 
     completamente el contenedor, manteniendo
